@@ -16,7 +16,7 @@
 ## 3. Installation
 ```xml
 <dependency>
-    <groupId>io.jettra</groupId>
+   <groupId>com.github.jettraframework</groupId>
     <artifactId>JettraReport</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 </dependency>

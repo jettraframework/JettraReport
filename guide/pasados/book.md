@@ -16,7 +16,7 @@ Add the following dependency to your project:
 
 ```xml
 <dependency>
-    <groupId>com.jettra</groupId>
+    <groupId>com.github.jettraframework</groupId>
     <artifactId>JettraReport</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 </dependency>
